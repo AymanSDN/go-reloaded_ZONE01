@@ -1,0 +1,17 @@
+X   edit write into main.go
+    edit after last \' SQ
+    hex and bin handle "1e (hex)hrdd" > 30
+    1e (up)hrdd
+    1e (up,2)
+    (cap, 
+    hello (cap)hello
+    1000000 (bin) (hex) (bin)
+    HELLO . . . . . .  . . . . . . .  . . . . 
+    :... .. ...
+
+    "Short.
+    Singleword
+    !?"
+    This Is A MiXeD CaSe SeNtEnCe.
+    'This is a test' with various don 't 'quotes' and punctuation!!! How will it handle?
+

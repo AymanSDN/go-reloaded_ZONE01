@@ -1,0 +1,12 @@
+read input (read infile)
+parse data
+hex to decimal
+bin to decimal
+to upper
+to lower
+capitalized
+times case for up, low and cap
+
+Welcome to the Brooklyn bridge (cap)
+
+
